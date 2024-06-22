@@ -1,0 +1,68 @@
+* Main Ideas
+  You are against the world government and are attempting to overthrown them (Need to think about what could happen in a sequal)
+
+* Characters
+** Main Character:
+   The main character has an augmented arm that can transform into various kitchen equipment
+   as they are a chef
+** World Government
+   - Tyrannical 
+   - Abuse augmentations
+* Story
+** Start
+   You begin at home watching the news
+   On the news, there is a story that goes in depth about the increased suicide rates because of the augmentations
+   This makes you reflect on you augmentations,
+   As you need it for your job as a chef, you decide that you cannot get rid of it and the knife is incredibly helpful for safety (Crime ridden city)
+** On the way to work
+   You have to walk to work while observing augmented drug addics, crying children and vulnerable people
+   You see a hit and run into a shop and are forced to jsut walk by it (Car only leaves once youre past it)
+** At work
+   You make it to the kitchen on time
+   You converse with some friends and it is your turn to work at the counter taking orders
+   You go to the counter and take some regular orders (1 or 2)
+   It is a fancy resteraunt and you get payed a lot
+   Suddenly, a scruffy augmented man walks in,
+   He has a bomb as an augmentation (Which is perfectly legal (For self defence))
+   He thretens to use it
+   Some of your friends in the kitchen go to talk to him while you continue to take orders (This is a normal occurence)
+   He then detonates the bomb, killing everyone nearby and completely destroying your augmented arm and damaging your leg
+   You begin to black out as you look at the giant crater in the ground, where the bomber and your friends were
+   You are taken to the hospital
+** At the hospital
+   You awake attatched to machines, there is noone around as all of the doctors are automatic optimised robots
+   The machines detach, and a robot comes over to you holding a new augmented arm,
+   As the player, you can either choose to take the arm or decline it
+
+   *Im not so sure about these ideas anymore*
+    
+   I think you should be judged based on your illegal augmentations
+*** If you take it
+    Your ability to use weapons will be much more powerful (You can two hand it)
+    You can also move heavy objects 
+    Later in the game, the government will access your augmented arm and make it malfunction against you occasionally,
+    this will result in your arm electrifying you / hurting you
+    Your opinion as someone against augmentations will not be taken seriously
+   
+    You can remove it at any time by going to an illegal augmentation shop (Expensive and you can get caught which will result in permenant reputation damage)
+*** If you dont take it
+    Your ability to use weapons will be less powerful
+    You cannot move heavy objects
+    The government cannot hack you
+    Your opinion will be taken seriously
+    (Need to think of more reasons not to take it as it is currently a disadvantage)
+*** After choice
+    You then leave the hospital and watch as people are shooting people and being taken into the hospital
+    You watch as a shootout begins between a stop augmentations protest and criminals with augmentations
+    You make your way to the stop augmentations headquarters
+** Headquarters
+   You find the headquarters beign shot up by augmented people
+   You have to kill them to get into the headquaters
+   This creates a moral dilema - was it worth it to kill all of those people
+   You contemplate this for a moment before the leader comes up to you and thanks you
+   You then tell the leader why you are there
+   *If you have the augmented arm, you will not be taken seriously and will be turned away*
+   If you dont have the arm:
+      They will take you seriously and they will grant you access to the guild
+      To prove that you are legitamete, you are sent on a mission to inspect the government headquarters
+      They are not the main headquarters but neither you nor them know it yet

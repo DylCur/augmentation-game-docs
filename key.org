@@ -1,0 +1,22 @@
+* Basics
+ Throughout this key a lowercase x will be used to denote an impliable letter
+
+ Different parameters can be combined via a -:
+
+ Better Vision (LA - EG - CH)
+
+ Meaning Better Vision is a legal augmentation which is Early game and cheap
+
+* Augmentations
+** Foundational Syntax
+   (LA) - Legal Augmentation
+   (IA) - Illegal Augmentation
+
+** Time Syntax
+  (EG) - Early Game x Augmentation
+  (MG) - Mid Game x Augmentation
+  (LG) - Late Game x Augmentation
+  (3S) - Each of the 3 Augmentations are obtained at 3 different stages of the game 
+** Price Syntax
+   (EX) - Expensive
+   (CH) - Cheap

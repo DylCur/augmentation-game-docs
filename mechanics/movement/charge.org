@@ -1,0 +1,34 @@
+* Charging overview
+  Charging is similar to demoknight from TF2
+  You have a charge metre and once it is fully charged, you can charge
+  While charging, you can stop by pressing the charge button again
+  For each enemy you hit while charging, your damage will increase by 10% (Max: 300%) for the duration of the charge + 5 seconds
+  When you begin your charge, all negative debuffs will have their effectivity halved,
+  While you are charging, your attack speed is doubled
+  Charges take 6 minutes to recharge (By default)
+
+* Upgrades
+
+  Reduced recharge time I, II and III (LA - CH -> EX -> EX - 3S):
+  - Each recharge reduction will halve the amount of time required for a recharge
+    0 = 360 seconds
+    1 = 180 seconds
+    2 = 90 seconds
+    3 = 45 seconds
+  - The intended recharge time is 180 seconds, you are not intended to leave your recharge at level 0
+  
+  Increased Damage Buff Time I, II, III (LA - EX - MG -> LG -> LG):
+  - Increases the length of the post charge damage buff by 2 seconds per level
+    0 = 5 seconds
+    1 = 7 seconds
+    2 = 9 seconds
+    3 = 11 seconds
+  - This might need nerfing as potential +300% damage for 11 seconds seems ridiculous
+  
+  Clear Debuffs (LA - CH - MG):
+  - Removes the debuffs when starting a charge instead of just halving the effectivity
+
+  Increased Weapon Switch Speed (While Charging) (LA - CH - MG):
+  - Reduces the amount of time it takes to switch weapon
+  - This is useful as it allows you to hit many enemies with a fast gun
+    and then switch to a slightly slower but still powerful gun / shotgun / last prism type weapon

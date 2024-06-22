@@ -1,0 +1,10 @@
+* Sliding
+  Sliding involves the player having momentum
+  It is a default mechanic but can be upgraded via augmentations
+  These augmentations are:
+  - Powerful Slide (LA - CH - EG): 
+    * Allows your slides to deal damage to enemies
+    * When colliding with an enemy, you will damage them
+  
+  - Longer Slide
+    * Allows you to slide for longer before your slide stops

@@ -1,0 +1,11 @@
+* Walking
+  Walking is simple. Use WASD to move your character around
+  You can buy a sprint augmentation (LA) to enable sprinting but requiring an
+  oil replacement every now and again.
+  You can buy an improved sprint (IA - EX - EG) to enable for unlimited sprinting
+  (As it uses oil that was banned by the government as it would cause them to lose
+  a lot of money)
+
+* Jumping
+  Jumping is basic
+

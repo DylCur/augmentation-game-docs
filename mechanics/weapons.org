@@ -1,0 +1,58 @@
+* Weapons
+** Main ideas before beginning to design weapons
+   This world is a dystopian future world
+   - This means that something like an AK-47 or a standard assault weapon is unrealistic
+     They are only suitable when they are being used by underfunded groups (i.e. the rebels)
+   
+   - Human rights are not a high priority therefore cruel killing methods are perfectly legal
+     This also means that biological weapons are legal
+
+     The world is technologically advanced (In lore, they have a dyston sphere)
+   - This means that energy isn't expensive
+     This then means that when designing weapons, they should be more energy weapons and less bullet based weapons
+     The ONLY group allowed to use standard guns are the rebels
+  
+** Overview of the main ideas
+   Cruel weapons are allowed
+   Never use bullet weapons unless it is for the rebels
+   Energy is cheap so prioritise energy weapons
+
+** The weapons
+*** Ranged
+
+**** Ammo
+     
+     Pistol bullets:
+     - The only standard bullets in the game
+       They are incredibly weak and innacurate
+
+     Plasma bullets:
+     - Basic bullets,
+       Incredibly hot and radioactive
+       Deal standard damage
+       Used by the most basic type of police (Like HL2 metrocops)
+       They are made from processed light
+       They found a way to make light rapidly ionising 
+       (Need to do some research into radiation so it is somewhat realistic)
+
+**** Standard
+     
+     Pistol:
+     - This will be the only standard bullet weapon and will be what the player uses first
+       It is weak, semi-auto and innacurate
+       There is no tech about it,
+       It is dusty and ancient
+       This must only be used by the rebels or the player
+     
+     Plasma Pistol:
+     - Automatic weapon that will shoot using energy shots
+       Very weak,
+       Used by the most basic police
+
+**** Powerful
+
+     Plasma Rocket launcher:
+     - Slow
+     - Powerful
+     - Shoots a large slow moving projectile that explodes on impact
+     - 

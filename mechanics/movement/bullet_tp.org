@@ -1,0 +1,8 @@
+* Overview
+  A Bullet Teleport (IA - EX - MG) is an augmentation that can be used so that your next
+  bullet that hits an enemy will teleport you to that enemy, kill that enemy and release
+  a shockwave that will damage all over enemies around it
+
+* Upgrades
+  Improved Damage (IA - EX - MG):
+  * Improves the amount of damage that the shockwave does

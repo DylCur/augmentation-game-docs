@@ -1,0 +1,4 @@
+* Grapple
+  Grappling is a (LA - CH - EG)
+  It allows you to use a grappling hook that will shoot out of your arm
+  and then pull you towards your target

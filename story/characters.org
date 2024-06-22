@@ -1,0 +1,49 @@
+* Characters 
+** Basic ideas before making characters
+   This is set in the future:
+   - Any reference to realworld modern slang is immersion breaking and unrealistic
+   
+     All of the people in this game will have lived in inhumane conditions their whole life
+   - They will be toughened and will have seen a lot of horrific things
+     - This means that they will not cry throughout the game
+       They are completely desensitised to everything they see
+       The rebels are fighting so that people can stop dying, while they are desensitised to it,
+       they still know that it is wrong and shouldnt be happening
+       They are still upset when their family die
+
+
+** Characters
+*** Enemy
+
+    Basic Police:
+    - Found in the early basic parts of the game 
+    - Dont do much damage
+    - Wont attack you when you haven't done anything wrong
+    - Carry plasma pistols
+    - Can call for backup
+    - They work by choice
+      - More so because they cannot afford to do any other job
+    - When they attack they dont intend to kill
+
+    Mid-Level police:
+    - Found in [Insert timing here] 
+    - Do much more damage
+    - Wont attack you if you havent done anything wrong
+    - They were once basic police but were promoted to this level
+    - When they attack, they intend to kill
+
+    High-level police:
+    - Found near the end of the game
+    - Can one hit the player if they have no health boosts
+    - Will always attack you 
+    - Promoted all the way up
+    - Uses plasma rocket launcher
+
+*** The government
+
+    The own multiple headquarters:
+
+    - Basic base:
+
+
+

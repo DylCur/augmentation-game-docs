@@ -1,0 +1,20 @@
+* Map
+** Basic considerations
+
+   This is a dytopian world
+   The police are everywhere
+
+** Layout
+   Your house ->
+   The City (Limited by police cars everywhere) ->
+   The Kitchen ->
+   The hospital ->
+   Full City:
+   - The casino
+   - The illegal augmentation shop
+   - The legal augmentation shop
+   - The hospital 
+   - The police station
+
+
+https://miro.com/app/board/uXjVMi3ICuk=/
